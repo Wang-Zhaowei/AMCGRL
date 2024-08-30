@@ -18,11 +18,11 @@ In this paper, a generalized attention-augmented multi-domain cooperative graph 
 
 In this paper, three different types of biological networks are collected from previous work or publicly available databases for the molecular interaction prediction task.
 
-*   **ATH-PepPI** comprises 3*, *966 interactions between 243 peptides and 1*, *039 proteins in the *Arabidopsis thaliana *(*A. thaliana*).
+*   **ATH-PepPI** comprises 3,966 interactions between 243 peptides and 1,039 proteins in the *Arabidopsis thaliana *(*A. thaliana*).
 
-*   **ATH-MLI** consists of 340 miRNAs and 516 lncRNAs, with a total of 3*, *099 interactions between these two classes of non-coding RNAs in the *A. thaliana*.
+*   **ATH-MLI** consists of 340 miRNAs and 516 lncRNAs, with a total of 3,099 interactions between these two classes of non-coding RNAs in the *A. thaliana*.
 
-*   **HS-RPI** consists of 7*, *317 interactions of *Homo sapiens *(*H. sapiens*) between 1*, *874 RNAs and 118 proteins.
+*   **HS-RPI** consists of 7,317 interactions of *Homo sapiens *(*H. sapiens*) between 1,874 RNAs and 118 proteins.
 
 ## Setup and dependencies
 
