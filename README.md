@@ -21,7 +21,7 @@ In this paper, different types of biological networks are collected from previou
 
 *   **MLI3099** consists of 340 miRNAs and 516 lncRNAs, with a total of 3,099 interactions between these two classes of non-coding RNAs in the *A. thaliana*.
 
-*   **RPI7317** consists of 7,317 interactions of *Homo sapiens* (*H. sapiens*) between 1,874 RNAs and 118 proteins.
+*   **RPI7317** consists of 7,317 interactions of *Homo sapiens* (*H. sapiens*) between 1,874 lncRNAs and 118 proteins.
 *   **Yamanishi's dataset** contains four subsets of protein families: (1) Enzymes, (2) Ion channels, (3) G-Protein-Coupled Receptors (GPCRs), and (4) Nuclear receptors, which can be available at [Yamanishi's Supplements](https://members.cbio.mines-paristech.fr/~yyamanishi/pharmaco/https://members.cbio.mines-paristech.fr/~yyamanishi/pharmaco/).
 
 ## Setup and dependencies
