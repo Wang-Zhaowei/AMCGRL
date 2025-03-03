@@ -53,4 +53,4 @@ python main.py --inter_type NN --input_x_file miRNAs.txt --input_y_file lncRNAs.
 
 ## Citation
 
-Zhaowei Wang, Jun Meng, Haibin Li, et al. "Attention-augmented multi-domain cooperative graph representation learning for molecular interaction prediction."   ***Neural Networks*** (2024) \[*Under Review*]
+Zhaowei Wang, Jun Meng*, Haibin Li, Qiguo Dai, Xiaohui Lin, Yushi Luan*. Attention-augmented multi-domain cooperative graph representation learning for molecular interaction prediction. **Neural Networks**, 186:107265, 2025.
